@@ -12,9 +12,6 @@ public class MainContaBancaria {
      * @version 1.0
      * @since   06/06/2024
      */
-
-
-
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
